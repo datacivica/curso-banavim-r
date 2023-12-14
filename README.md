@@ -1,6 +1,6 @@
 # Banavim.Curso-intro-R
 
-Este repositorio contiene los scripts utilizados en el curso INTRODUCCIÓN AL PROCESAMIENTO, VISUALIZACIÓN Y AUTOMATIZACIÓN CON DATOS EN R impartido a funcionarixs del BANAVIM en enero y febrero de 2023.
+Este repositorio contiene los scripts utilizados en el curso Introducción al procesamiento, visualización y automatización con datos en R, impartido a funcionarixs del BANAVIM en enero y febrero de 2023.
 
-Los datos utilizados en estos scripts se pueden encontrar en [esta carpeta](https://drive.google.com/drive/folders/1p8w2r376ic17u39kNjClFh-riJaGHE9t) de Google Drive.
+Los datos utilizados en estos scripts, así como el programa del curso, se pueden encontrar en [esta carpeta](https://drive.google.com/drive/folders/18bE6l3d6ZlAdLyHmG3xh6Kkmb9lbBO25) de Google Drive.
 
